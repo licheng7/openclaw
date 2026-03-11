@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+__pycache__/
+
+# Cache & logs
+cache/
+*.log
+
+# Sensitive
+.openclaw/
+
+# OS
+.DS_Store
+project/claude_test
